@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+${0}background: repeating-radial-gradient(circle at 50% 50%, yellow 0, yellow 9px, red 11px, red 19px, yellow 21px);
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>dbug</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html,source.css,source.sass</scope>
+</snippet>
+
+<!--
+Other Versions
+background: transparentize(#d3b116, ${1:0.5});
+${0}background: repeating-linear-gradient(45deg, transparentize(yellow, 0.5) 0, transparentize(yellow, 0.5) 5px, transparentize(red, 0.5) 5px, transparentize(red, 0.5) 10px);
+${0}background: repeating-radial-gradient(circle at 50% 50%, yellow 0, yellow 9px, red 11px, red 19px, yellow 21px);
+-->
