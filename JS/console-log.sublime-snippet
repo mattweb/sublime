@@ -7,3 +7,7 @@ console.log(${2:'${1:I’m the miggida miggida miggida Mac Daddy}'});$0
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>text.html,source.js</scope>
 </snippet>
+
+<!--
+If anyone aks where this comes from: https://www.youtube.com/watch?feature=player_detailpage&v=010KyIQjkTk#t=135
+-->
