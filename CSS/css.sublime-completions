@@ -7,5 +7,6 @@
 		{ "trigger": "dbug\tdiagnoal background", "contents": "${0}background: repeating-linear-gradient(45deg, transparentize(yellow, 0.5) 0, transparentize(yellow, 0.5) 5px, transparentize(red, 0.5) 5px, transparentize(red, 0.5) 10px);" },
 		{ "trigger": "dbug\tradial background", "contents": "${0}background: repeating-radial-gradient(circle at 50% 50%, yellow 0, yellow 9px, red 11px, red 19px, yellow 21px);" },
 		{ "trigger": "dbug\toutline", "contents": "${0}outline: 1px solid red;" },
+		{ "trigger": "dbug\tborder", "contents": "${0}border: 1px solid red;" },
 	]
 }
